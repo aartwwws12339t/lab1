@@ -1,7 +1,7 @@
 let pas_amount=0;
 let tickets_amount=0;
 let trains_amount=0;
-class ticket{
+class ticket {
     constructor(start,destination,date,train){
         this.start = start;
         this.destination = destination;
